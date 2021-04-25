@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #ff6523;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 14px;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+img {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.bg-red {
+  background: #ff3636;
+}
+
+.bg-red:hover {
+  background: #ff2323;
+}
+
+.bg-blue {
+  background: #8596E8;
+}
+
+.bg-blue:hover {
+  background: #5571ff;
+}
+
+.bg-orange {
+  background: #F67D48;
+}
+
+.bg-orange:hover {
+  background: #ff6523;
+}
+
+.bg-green {
+  background: #88D969;
+}
+
+.bg-green:hover {
+  background: #46CB18;
+}

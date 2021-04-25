@@ -1,0 +1,48 @@
+{
+  "name": "kitrampa-server",
+  "version": "1.0.0",
+  "description": "Kitrampa API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetberketuncel/kitrampa.git"
+  },
+  "keywords": [
+    "kitrampa",
+    "trampa",
+    "takas",
+    "kitap",
+    "webapplication"
+  ],
+  "author": "Ahmet Berke Tuncel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmetberketuncel/kitrampa/issues"
+  },
+  "homepage": "https://github.com/ahmetberketuncel/kitrampa#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cookieparser": "^0.1.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.11",
+    "nodemailer": "^6.4.17",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "rate-limiter-flexible": "^2.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

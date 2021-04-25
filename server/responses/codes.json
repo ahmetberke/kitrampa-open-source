@@ -1,0 +1,52 @@
+{
+  "999":"Something is wrong.",
+  
+
+  "100":"User registration successful.",
+  "101":"This email already exists",
+  "102":"User not found",
+  "103":"email confirmed successful",
+
+  "110":"User login successful.",
+  "111":"Already logged in.",
+  "112":"No users registered with this email.",
+  "113":"Password is not correct.",
+  "114":"Email not verificated.",
+  "115":"required fields are empty.",
+  
+  "120":"changes have been successfully saved.",
+  "121":"No authentication.",
+  "122":"Nothing changed or updated.",
+  "123":"This username already exists.",
+  "124":"province or district not valid.",
+
+  "130":"user deletion successful.",
+  "131":"user freeze successful.",
+
+  "140":"Data received successful.",
+
+  "150":"Password reset email sent.",
+  "151":"Email not found.",
+  "152":"password reset successful.",
+  "153":"Getting token successful.",
+
+  
+  "200":"User blocking successful.",
+  "201":"No permission.",
+  "202":"User is already blocked.",
+  "203":"User is not already blocked.",
+  "204":"User unblocking successful.",
+
+  
+  "301":"Book not found.",
+
+  "310":"Swap Book created.",
+
+  "320":"swap book removal successful",
+  "321":"Swap Book not found.",
+  
+  "330":"Insufficient number of books to generate demand.",
+  "331":"Request creation successful.",
+  "332":"Swap request not found.",
+  "333":"Swap request deletion successful."
+}
